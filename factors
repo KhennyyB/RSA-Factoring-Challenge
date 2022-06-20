@@ -30,3 +30,4 @@ try:
             factorize(value)
             line = file.readline()
 except:
+    pass
